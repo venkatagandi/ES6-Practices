@@ -18,6 +18,10 @@ Please refer to below for more info.
 
 
 [Inheritance](inheritance/INHERITANCE.md)
+
 [Properties](properties/PROPERTIES.md)
+
 [GET SET Accessors](GET_SET/GET_SET.md)
+
 [Constructor](constructor/CONSTRUCTOR.md)
+
